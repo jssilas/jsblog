@@ -1,9 +1,9 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "zh-Hans"
+languageName = "Chinese - Simplified"
 languageDirection = "ltr"
 weight = 1
 
-title = "WidlGeek"
+title = "旷野极客"
 
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -15,7 +15,7 @@ title = "WidlGeek"
 
 
 [params.author]
-  name = "Jiang Sheng (Silas)"
+  name = "Silas"
   # image = "img/author.jpg"
   headline = "Hello world."
   bio = "A little bit about you"
